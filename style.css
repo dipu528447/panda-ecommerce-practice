@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.carousel-bg{
+    background-color: rgb(254, 234, 233) ;
+    border-radius: 10px;
+}
+.carosul-section{
+    margin-top: 7%;
+}
+.left-carousel{
+    margin:40px;
+}
+#categories{
+    margin-top: 20px;
+    font-family: Tahoma;
+}
+.cat-card-blue{
+    border-radius: 10px;
+    background-color: deepskyblue;
+}
+.cat-card-yellow{
+    border-radius: 10px;
+    background-color: yellowgreen;
+}
+.cat-card-red{
+    border-radius: 10px;
+    background-color: indianred;
+}
+.card-txt{
+    text-align: justify;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px gray;
+}
+section{
+    margin-top: 40px;;
+}
+.footer_section{
+    width:100%;
+    height:40vh;
+    background-color: antiquewhite;
+}
+.btn-email{
+    background: linear-gradient(to bottom, rgb(255, 40, 125) 0%,rgb(238, 73, 138) 100%);
+}
+.text_email{
+    border-radius: 5px;
+    width: 70%;
+    height: 5vh;
+    border: none;   
+}
